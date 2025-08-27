@@ -7,3 +7,7 @@
 Text
 
 ![Duck image](https://www.radioromance.com/wp-content/uploads/2025/01/PATOS.jpeg)
+
+```python
+ivo = 21
+```
